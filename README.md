@@ -22,7 +22,7 @@
 
 ### Preguntas Frecuentes [ESP]
 
-- ** ¿De dónde escuchás tu música o esa playlist?
+** ¿De dónde escuchás tu música o esa playlist?
 [Spotify](https://open.spotify.com/playlist/0yiICZMIVct6Ft700pwm2G?si=d02cebf303284cef) 
 
 - ** ¿Cuándo empezaste con el [speedrun](https://es.wikipedia.org/wiki/Speedrun)?
