@@ -47,7 +47,7 @@ Porque es para que no aparezca o evitar tráfico.
 Soy de Buenos Aires, Argentina.
 
 - ¿Cuántos años tienes?
-16.
+17.
 
 - ¿Por qué no activas la cámara? ¿Pasó algo?
 Simplemente no tengo ganas de usar cámara en mis streams, pero de vez en cuando la uso.
