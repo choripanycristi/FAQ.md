@@ -1,6 +1,10 @@
 # Contents 
 
-## Chat Rules
+[Chat Rules](#chat-rules)
+
+
+
+[Chat Rules](#chat-rules)
 
 - Do not share links without my permission (except clips from my channel).
 
