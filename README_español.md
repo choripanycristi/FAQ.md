@@ -3,8 +3,8 @@
 [Reglas del Chat](#reglas-del-chat)
 
 - [Preguntas Frecuentes](#preguntas-frecuentes)
-    - [Speedrun Preguntas Frecuentes](#speedrun-faq)
-        - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-speedrun)
+    - [Speedrun Preguntas Frecuentes](#speedrun-preguntas-frecuentes)
+        - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-estás-haciendo?-/-qué-es-el-speedrun)
         - [¿Por qué haces eso?](#por-que-haces-eso)
         - [¿Dónde veo tus records?](#donde-ver-mis-records)
         - [¿Cómo hago para tener ese cronómetro que utilizas?](#cronometro)
