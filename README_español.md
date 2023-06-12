@@ -16,7 +16,6 @@
             - [Splits](#splits)
             - [Splitear](#splitear)
             - [Segmentos](#segmentos)
-            - [¿Qué técnicas para tener mejores tiempos debería aplicar](#que-tecnica-deberia-aplicar)
         - [Quiero empezar con el speedrun, ¿Cómo hago?](#empezar-con-speedrun)
         - [Quiero runnear el simpsons hit and run](#runnear-shar)
 
@@ -35,7 +34,8 @@
 
 [Redes Sociales](#redes-sociales)
 
------------------------------------------------------------
+***
+
 # Reglas del Chat
 
 - No pasar links sin mi permiso (excepto clips del canal).
@@ -68,65 +68,65 @@ Simplemente no tengo ganas de usar cámara en mis streams, pero de vez en cuando
 - ¿Cuándo empezaste con el [speedrun](https://es.wikipedia.org/wiki/Speedrun)?
 Empecé a finales de Julio de 2019, pero mi primer run subida fue en Septiembre 2020.
 
-## Speedrun Preguntas Frecuentes
-    - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-speedrun)
-        El speedrun consiste en terminar un juego o "una parte del juego" en el menor tiempo posible y (no necesariamente) aplicando estrategias para hacerlo más rápido.
-        Si quieres ir mas a detalle sobre esto puedes leer [este artículo](https://es.wikipedia.org/wiki/Speedrun).
+# Speedrun Preguntas Frecuentes
+   ## ¿Qué es estás haciendo?
+El speedrun consiste en terminar un juego o "una parte del juego" en el menor tiempo posible y (no necesariamente) aplicando estrategias para hacerlo más rápido.
+Si quieres ir mas a detalle sobre esto puedes leer [este artículo](https://es.wikipedia.org/wiki/Speedrun).
 
-        - [¿Por qué haces eso?](#por-que-haces-eso)
-        Simplemente porque me gusta y disfruto poder mejorar mis tiempos poco a poco. Si te preguntas por qué hago una estrategia o una cosa en concreto puedes preguntarlo en el chat con gusto, igualmente te invito a seguir leyendo este archivo así capaz te sacas las dudas.
+ ## ¿Por qué haces eso?
+ Simplemente porque me gusta y disfruto poder mejorar mis tiempos poco a poco. Si te preguntas por qué hago una estrategia o una cosa en concreto puedes preguntarlo en el chat con gusto, igualmente te invito a seguir leyendo este archivo así capaz te sacas las dudas.
 
-        - [¿Dónde veo tus records?](#donde-ver-mis-records)?
-        [Aquí](https://speedrun.com/user/choripanycristi) o en los destacados de [Twitch](https://twitch.tv/choripanycristi) o también en mi [Canal de YouTube](https://www.youtube.com/@choripanycristi/).
-        También puedes poner !pbs en el chat.
+## ¿Dónde veo tus records?
+[Aquí](https://speedrun.com/user/choripanycristi) o en los destacados de [Twitch](https://twitch.tv/choripanycristi) o también en mi [Canal de YouTube](https://www.youtube.com/@choripanycristi/).
+También puedes poner !pbs en el chat.
 
-        - [¿Cómo hago para tener ese cronómetro que utilizas?](#cronometro)
-        El cronómetro que utilizo es el [LiveSplit](https://livesplit.org/).
-        Pronto haré un video explicativo para el setup del mismo y que puedan configurarlo a su gusto, mientras tanto pueden guiarse con [este video](https://youtube.com/watch?v=0nBMFYsnnLI).
+## ¿Cómo hago para tener ese cronómetro que utilizas?
+El cronómetro que utilizo es el [LiveSplit](https://livesplit.org/).
+Pronto haré un video explicativo para el setup del mismo y que puedan configurarlo a su gusto, mientras tanto pueden guiarse con [este video](https://youtube.com/watch?v=0nBMFYsnnLI).
 
-    - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-livesplit)
-    *Pronto lo explicaré, mientras tanto vean este video:*
-    https://youtube.com/watch?v=0nBMFYsnnLI
+## Conceptos básicos del LiveSplit ("cronómetro")
+*Pronto lo explicaré, mientras tanto vean este video:*
+https://youtube.com/watch?v=0nBMFYsnnLI
 
-    - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-speedrunners)
+## Conceptos y palabras de speedrunners](#conceptos-y-palabras-speedrunners)
 
-        - [¿Qué significa PB/Personal Best?](#que-significa-pb)
-        PB significa Personal Best, que vendría a ser tu record de tiempo en un juego específico, esto puede ser record de pasarte el juego completo o también puede ser de [segmentos](#segmentos).
+## ¿Qué significa PB/Personal Best?
+PB significa Personal Best, que vendría a ser tu record de tiempo en un juego específico, esto puede ser record de pasarte el juego completo o también puede ser de [segmentos](#segmentos).
 
-        - [Golds/Best Segments](#golds-best-segments)
-        Gold o Best Segment (no confundir con [segmentos](#segmentos)) es cuando terminas una misión/nivel/[split](#splits) de un juego y sacas "tu mejor tiempo" en dicha parte.
-        Se suele decir "He hecho un gold en 'The Cola Caper' de 1:13" (citando a Simpsons Hit and Run como ejemplo).
-        Generalmente en habla hispana no se suele decir "Best Segment" pero igualmente los que sepan del tema lo entenderán.
+### Golds/Best Segments
+Gold o Best Segment (no confundir con [segmentos](#segmentos)) es cuando terminas una misión/nivel/[Splits](#splits) de un juego y sacas "tu mejor tiempo" en dicha parte.
+Se suele decir "He hecho un gold en 'The Cola Caper' de 1:13" (citando a Simpsons Hit and Run como ejemplo).
+Generalmente en habla hispana no se suele decir "Best Segment" pero igualmente los que sepan del tema lo entenderán.
 
-        - [Pace](#pace)
-        Se refiere al ritmo de la run. Se utiliza en ciertos casos como:
-        "Perdí un poco de tiempo, pero estoy en buena pace"
-        "Estoy en pace de sub 2 horas"
-        "Perdí la pace de sub 20 'Train'"
+### Pace
+Se refiere al ritmo de la run. Se utiliza en ciertos casos como:
+    "Perdí un poco de tiempo, pero estoy en buena pace"
+    "Estoy en pace de sub 2 horas"
+    "Perdí la pace de sub 20 'Train'"
 
-        - [Splits](#splits)
-        https://prnt.sc/e8JpiNsCIj8D
-        En pocas palabras, son todas las misiones, tareas, objetivos o como quieras llamarlo, del juego en cuestión
+### Splits
+https://prnt.sc/e8JpiNsCIj8D
+En pocas palabras, son todas las misiones, tareas, objetivos o como quieras llamarlo, del juego en cuestión
 
-        - [Splitear](#splitear)
-        Es cuando manualmente o automáticamente después de terminar una misión, o terminar el juego se te carga el tiempo que terminaste dicha misión/full run al "Splitear"
+### Splitear
+Es cuando manualmente o automáticamente después de terminar una misión, o terminar el juego se te carga el tiempo que terminaste dicha misión/full run al "Splitear"
 
-        - [Segmentos](#segmentos)
-        https://prnt.sc/JBd7wSHOrQE1
-        En este caso para que se entienda, los splits vendrían a ser unos sub-items, los cuales forman parte del Segmento (esto varía en cada juego, y realmente aplicarlo en tu Livesplit no es 100% necesario, sino es más como para guiarte de cuanto tiempo sacaste hasta tal parte del juego).
+### Segmentos
+https://prnt.sc/JBd7wSHOrQE1
+En este caso para que se entienda, los splits vendrían a ser unos sub-items, los cuales forman parte del Segmento (esto varía en cada juego, y realmente aplicarlo en tu Livesplit no es 100% necesario, sino es más como para guiarte de cuanto tiempo sacaste hasta tal parte del juego).
 
-        Ejemplos:
-        GTA San Andreas tiene 6 segmentos, los cuales se conocen como: Los Santos, Badlands, San Fierro, Desert (o Desierto), Las Venturas y Return To Los Santos (en ese respectivo orden).
-        En Simpsons Hit and Run son 7 segmentos: Homer 1, Bart 1, Lisa, Marge, Apu, Bart 2, Homer 2.
+Ejemplos:
+    GTA San Andreas tiene 6 segmentos, los cuales se conocen como: Los Santos, Badlands, San Fierro, Desert (o Desierto), Las Venturas y Return To Los Santos (en ese respectivo orden).
+    En Simpsons Hit and Run son 7 segmentos: Homer 1, Bart 1, Lisa, Marge, Apu, Bart 2, Homer 2.
 
-    - [Quiero empezar con el speedrun, ¿Cómo hago?](#empezar-con-speedrun)
-    Para empezar te recomiendo elegir un juego de tu infancia o que te guste mucho, y fijarte en [speedrun.com](https://speedrun.com) runs de ese juego y ver si te interesan las mecánicas o aprendértelo a runnear. Si es así entonces fijate en el apartado de "Guides" y "Resources" a ver si hay algún tutorial para guiarte más fácil, y el resto es pura práctica.
+## Quiero empezar con el speedrun, ¿Cómo hago?](#empezar-con-speedrun)
+Para empezar te recomiendo elegir un juego de tu infancia o que te guste mucho, y fijarte en [speedrun.com](https://speedrun.com) runs de ese juego y ver si te interesan las mecánicas o aprendértelo a runnear. Si es así entonces fijate en el apartado de "Guides" y "Resources" a ver si hay algún tutorial para guiarte más fácil, y el resto es pura práctica.
 
-    - [Quiero runnear el simpsons hit and run](#runnear-shar)
-    [SHARCord](https://discord.gg/nU48TVd) ahí está todo. 
-    Está en ingles, pero con tus habilidades intelectuales podrás buscarle la forma de poder entender :D
+## Quiero runnear el simpsons hit and run](#runnear-shar)
+[SHARCord](https://discord.gg/nU48TVd) ahí está todo. 
+Está en ingles, pero con tus habilidades intelectuales podrás buscarle la forma de poder entender :D
 
-
+***
 - ¿Cómo es que haces Y? ¿Y cómo es que haces X o Z?
 Simplemente pregunta en el chat y yo o la gente te responderá de la mejor manera :D
 
