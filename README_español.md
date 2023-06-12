@@ -133,6 +133,7 @@ Para empezar te recomiendo elegir un juego de tu infancia o que te guste mucho, 
 Está en ingles, pero con tus habilidades intelectuales podrás buscarle la forma de poder entender :D
 
 # Personal Bests
+*Hacer*
 
 ***
 - ¿Cómo es que haces Y? ¿Y cómo es que haces X o Z?
