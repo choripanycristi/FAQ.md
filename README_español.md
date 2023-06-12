@@ -11,7 +11,7 @@
     - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-basicos-del-livesplit-cronometro)
     - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
             - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
-            - [Golds/Best Segments](#golds--best-segments)
+            - [Golds/Best Segments](#golds-best-segments)
             - [Pace](#pace)
             - [Splits](#splits)
             - [Splitear](#splitear)
@@ -27,7 +27,7 @@
 [GTA: SA Preguntas Frecuentes](#gta-sa-preguntas-frecuentes)
     *Hacer*
 
-[Personal Bests](#personal-bests)
+- [Personal Bests](#personal-bests)
     - [¿Qué significa esto?](#que-significa-esto)
     - [¿Dónde puedo ver tus records?](#donde-puedo-ver-tus-records)
 
