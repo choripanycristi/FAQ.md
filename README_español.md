@@ -2,7 +2,7 @@
 
 [Reglas del Chat](#reglas-chat)
 
-[Preguntas Frecuentes](#preguntas-frecuentes)
+- [Preguntas Frecuentes](#preguntas-frecuentes)
     - [Speedrun Preguntas Frecuentes](#speedrun-faq)
         - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-speedrun)
         - [¿Por qué haces eso?](#por-que-haces-eso)
