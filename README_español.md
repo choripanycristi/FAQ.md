@@ -9,7 +9,7 @@
     - [¿Dónde veo tus records?](#donde-veo-tus-records)
     - [¿Cómo hago para tener ese cronómetro que utilizas?](#como-hago-para-tener-ese-cronometro-que-utilizas)
     - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-basicos-del-livesplit-cronometro)
-      [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
+   - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
           - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
           - [Golds/Best Segments](#golds--best-segments)
           - [Pace](#pace)
