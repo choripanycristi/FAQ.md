@@ -125,10 +125,10 @@ Ejemplos:
     GTA San Andreas tiene 6 segmentos, los cuales se conocen como: Los Santos, Badlands, San Fierro, Desert (o Desierto), Las Venturas y Return To Los Santos (en ese respectivo orden).
     En Simpsons Hit and Run son 7 segmentos: Homer 1, Bart 1, Lisa, Marge, Apu, Bart 2, Homer 2.
 
-## Quiero empezar con el speedrun, ¿Cómo hago?](#empezar-con-speedrun)
+## Quiero empezar con el speedrun, ¿Cómo hago?
 Para empezar te recomiendo elegir un juego de tu infancia o que te guste mucho, y fijarte en [speedrun.com](https://speedrun.com) runs de ese juego y ver si te interesan las mecánicas o aprendértelo a runnear. Si es así entonces fijate en el apartado de "Guides" y "Resources" a ver si hay algún tutorial para guiarte más fácil, y el resto es pura práctica.
 
-## Quiero runnear el simpsons hit and run](#runnear-shar)
+## Quiero runnear el simpsons hit and run
 [SHARCord](https://discord.gg/nU48TVd) ahí está todo. 
 Está en ingles, pero con tus habilidades intelectuales podrás buscarle la forma de poder entender :D
 
