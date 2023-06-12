@@ -3,7 +3,7 @@
 [Reglas del Chat](#reglas-chat)
 
 [Preguntas Frecuentes](#preguntas-frecuentes)
-    [Speedrun Preguntas Frecuentes](#speedrun-faq)
+    - [Speedrun Preguntas Frecuentes](#speedrun-faq)
         - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-speedrun)
         - [¿Por qué haces eso?](#por-que-haces-eso)
         - [¿Dónde veo tus records?](#donde-ver-mis-records)
@@ -28,7 +28,6 @@
 [Personal Bests](#pbs)
     - [¿Qué significa esto?](#que-significa-eso)
     - [¿Dónde puedo ver tus records?](#donde-records)
-    - []
 
 [PC Specs](#pc-specs)
 
