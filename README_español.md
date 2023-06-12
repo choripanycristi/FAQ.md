@@ -4,7 +4,7 @@
 
 - [Preguntas Frecuentes](#preguntas-frecuentes)
     - [Speedrun Preguntas Frecuentes](#speedrun-preguntas-frecuentes)
-        - [¿Qué es estás haciendo? / Qué es el speedrun?](#¿que-es-estas-haciendo?-/-que-es-el-speedrun?)
+        - [¿Qué estás haciendo? / Qué es el speedrun?](#que-estas-haciendo?--que-es-el-speedrun)
         - [¿Por qué haces eso?](#por-que-haces-eso)
         - [¿Dónde veo tus records?](#donde-ver-mis-records)
         - [¿Cómo hago para tener ese cronómetro que utilizas?](#cronometro)
@@ -68,7 +68,7 @@ Simplemente no tengo ganas de usar cámara en mis streams, pero de vez en cuando
 Empecé a finales de Julio de 2019, pero mi primer run subida fue en Septiembre 2020.
 
 # Speedrun Preguntas Frecuentes
-   ## ¿Qué es estás haciendo?
+   ## ¿Qué estás haciendo?
 El speedrun consiste en terminar un juego o "una parte del juego" en el menor tiempo posible y (no necesariamente) aplicando estrategias para hacerlo más rápido.
 Si quieres ir mas a detalle sobre esto puedes leer [este artículo](https://es.wikipedia.org/wiki/Speedrun).
 
