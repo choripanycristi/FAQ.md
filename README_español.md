@@ -94,7 +94,7 @@ Pronto haré un video explicativo para el setup del mismo y que puedan configura
 *Pronto lo explicaré, mientras tanto vean este video:*
 https://youtube.com/watch?v=0nBMFYsnnLI
 
-## Conceptos y palabras de speedrunners](#conceptos-y-palabras-speedrunners)
+## Conceptos y palabras de speedrunners
 
 ## ¿Qué significa PB/Personal Best?
 PB significa Personal Best, que vendría a ser tu record de tiempo en un juego específico, esto puede ser record de pasarte el juego completo o también puede ser de [segmentos](#segmentos).
