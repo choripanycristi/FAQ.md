@@ -1,0 +1,56 @@
+# Contents 
+
+## Chat Rules
+
+- Do not share links without my permission (except clips from my channel).
+
+- Do not be an asshole, behave like a mature person.
+
+- Respect all users in chat.
+
+- Speak english or spanish, otherwise no one will understand you.
+
+### Frequently Asked Questions [ENG]
+
+- Where can I find your playlist?
+[Spotify](https://open.spotify.com/playlist/0yiICZMIVct6Ft700pwm2G?si=d02cebf303284cef) 
+
+- When did you start speedrunning?
+I started at the end of July 2020.
+
+- What's speedrun?
+[Read here](https://en.wikipedia.org/wiki/Speedrun)
+
+- Where can I see your runs/personal bests?
+[Here](https://speedrun.com/user/choripanycristi) or in [Twitch Highlights](https://twitch.tv/choripanycristi) or in my [Youtube Channel](https://www.youtube.com/channel/UC1sU44imF8LOssvHbyZkfRw)
+
+- Where can i find this timer?
+[Here](https://livesplit.org), and it's called LiveSplit.
+
+- How do you do Y? And how do you do X or Z?
+Just ask in the chat and I or the ppl will answer you aswell.
+
+- Why do you move tha camera like this in GTA:SA?
+Because it is to despawn/avoid traffic.
+
+- Where are you from?
+Argentina.
+
+- How old are u?
+18.
+
+- Why don't turn on your camera? Something happened?
+Nope, it just cuz i'm too lazy to do and i don't feel like.
+
+- Why do you go to the San Fierro stadium or to da Bike School? (GTA:SA)
+Cuz it's for hold a call and duplicate missions.
+
+- How to duplicate/dupe missions?
+
+Basically the game has 2 states: on mission 1 and on mission 0 (freemode).
+Taking the above, we need to hold a call in memory while in on mission 0, that's where the stadiums are used.
+The next thin' would be to cancel the call and wit 15 seconds (or as long as the call rings) and one second before the call arrives,
+you're going to hold the ESC button and when you hear the 'ring', you're going to release it.
+Once that you wait for the Bloodbowl to finish and when there is one second left you hold da call, enter the mission marker and release it after 'bout 2 seconds and skip the cutscene.
+Obviously there are more ways to do this, but if I explain E V E R Y T H I N G would be annoing or burden.
+This is the mostly for a general knowledge.
