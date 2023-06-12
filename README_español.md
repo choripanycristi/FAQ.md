@@ -4,7 +4,7 @@
 
 - [Preguntas Frecuentes](#preguntas-frecuentes)
     - [Speedrun Preguntas Frecuentes](#speedrun-preguntas-frecuentes)
-        - [¿Qué estás haciendo? / Qué es el speedrun?](#que-estas-haciendo?--que-es-el-speedrun)
+        - [¿Qué estás haciendo? / Qué es el speedrun?](#que-estas-haciendo--que-es-el-speedrun)
         - [¿Por qué haces eso?](#por-que-haces-eso)
         - [¿Dónde veo tus records?](#donde-ver-mis-records)
         - [¿Cómo hago para tener ese cronómetro que utilizas?](#cronometro)
