@@ -1,6 +1,6 @@
 # Contents / Contenidos
 
-## Chat Reglas [ESP]
+## Reglas del Chat
 
 - No pasar links sin mi permiso (excepto clips de mi canal).
 
