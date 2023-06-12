@@ -10,12 +10,12 @@
     - [¿Cómo hago para tener ese cronómetro que utilizas?](#como-hago-para-tener-ese-cronometro-que-utilizas)
     - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-basicos-del-livesplit-cronometro)
     - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
-            - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
-            - [Golds/Best Segments](#golds-best-segments)
-            - [Pace](#pace)
-            - [Splits](#splits)
-            - [Splitear](#splitear)
-            - [Segmentos](#segmentos)
+          - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
+          - [Golds/Best Segments](#golds--best-segments)
+          - [Pace](#pace)
+          - [Splits](#splits)
+          - [Splitear](#splitear)
+          - [Segmentos](#segmentos)
 
     - [Quiero empezar con el speedrun, ¿Cómo hago?](#quiero-empezar-con-el-speedrun-como-hago)
 
