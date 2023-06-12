@@ -1,6 +1,6 @@
 # Contenidos
 
-[Reglas del Chat](#reglas-chat)
+[Reglas del Chat](#reglas-del-chat)
 
 - [Preguntas Frecuentes](#preguntas-frecuentes)
     - [Speedrun Preguntas Frecuentes](#speedrun-faq)
