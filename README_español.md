@@ -11,7 +11,7 @@
     - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-basicos-del-livesplit-cronometro)
     - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
      - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
-      - [Golds/Best Segments](#golds--best-segments)
+       - [Golds/Best Segments](#golds--best-segments)
        - [Pace](#pace)
        - [Splits](#splits)
        - [Splitear](#splitear)
