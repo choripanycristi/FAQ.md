@@ -59,15 +59,19 @@
 Soy de Buenos Aires, Argentina.
 
 - ¿Cuántos años tienes?
+
 18.
 
 - ¿Por qué no activas la cámara? ¿Pasó algo?
+
 Simplemente no tengo ganas de usar cámara en mis streams, pero de vez en cuando la uso.
 
 - ¿De dónde escuchás tu música o esa playlist?
+
 [Spotify](https://open.spotify.com/playlist/0yiICZMIVct6Ft700pwm2G?si=d02cebf303284cef) 
 
 - ¿Cuándo empezaste con el [speedrun](https://es.wikipedia.org/wiki/Speedrun)?
+
 Empecé a finales de Julio de 2019, pero mi primer run subida fue en Septiembre 2020.
 
 # Speedrun Preguntas Frecuentes
