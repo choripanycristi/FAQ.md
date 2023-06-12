@@ -36,7 +36,7 @@
 [Redes Sociales](#redes-sociales)
 
 -----------------------------------------------------------
-[Reglas del Chat](#reglas-chat)
+# Reglas del Chat
 
 - No pasar links sin mi permiso (excepto clips del canal).
 
@@ -51,7 +51,7 @@
 - No incitar al odio o faltar el respeto a otros usuarios del chat, todos tenemos los mismos derechos
 
 
-[Preguntas Frecuentes](#preguntas-frecuentes)
+# Preguntas Frecuentes
 
 - ¿De dónde sos?
 Soy de Buenos Aires, Argentina.
@@ -68,7 +68,7 @@ Simplemente no tengo ganas de usar cámara en mis streams, pero de vez en cuando
 - ¿Cuándo empezaste con el [speedrun](https://es.wikipedia.org/wiki/Speedrun)?
 Empecé a finales de Julio de 2019, pero mi primer run subida fue en Septiembre 2020.
 
-- [Speedrun Preguntas Frecuentes](#speedrun-faq)
+## Speedrun Preguntas Frecuentes
     - [¿Qué es estás haciendo? / Qué es el speedrun?](#que-es-speedrun)
         El speedrun consiste en terminar un juego o "una parte del juego" en el menor tiempo posible y (no necesariamente) aplicando estrategias para hacerlo más rápido.
         Si quieres ir mas a detalle sobre esto puedes leer [este artículo](https://es.wikipedia.org/wiki/Speedrun).
