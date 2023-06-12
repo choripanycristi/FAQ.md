@@ -5,29 +5,31 @@
 - [Preguntas Frecuentes](#preguntas-frecuentes)
     - [Speedrun Preguntas Frecuentes](#speedrun-preguntas-frecuentes)
     - [¿Qué estás haciendo? / Qué es el speedrun?](#que-estas-haciendo--que-es-el-speedrun)
-        - [¿Por qué haces eso?](#por-que-haces-eso)
-        - [¿Dónde veo tus records?](#donde-ver-mis-records)
-        - [¿Cómo hago para tener ese cronómetro que utilizas?](#cronometro)
-        - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-livesplit)
-        - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-speedrunners)
-            - [¿Qué significa PB/Personal Best?](#que-significa-pb)
-            - [Golds/Best Segments](#golds-best-segments)
+    - [¿Por qué haces eso?](#por-que-haces-eso)
+    - [¿Dónde veo tus records?](#donde-veo-tus-records)
+    - [¿Cómo hago para tener ese cronómetro que utilizas?](#como-hago-para-tener-ese-cronometro-que-utilizas)
+    - [Conceptos básicos del LiveSplit ("cronómetro")](#conceptos-basicos-del-livesplit-cronometro)
+    - [Conceptos y palabras de speedrunners](#conceptos-y-palabras-de-speedrunners)
+            - [¿Qué significa PB/Personal Best?](#que-significa-pb--personal-best)
+            - [Golds/Best Segments](#golds--best-segments)
             - [Pace](#pace)
             - [Splits](#splits)
             - [Splitear](#splitear)
             - [Segmentos](#segmentos)
-        - [Quiero empezar con el speedrun, ¿Cómo hago?](#empezar-con-speedrun)
-        - [Quiero runnear el simpsons hit and run](#runnear-shar)
 
-[Simpsons Hit and Run Preguntas Frecuentes](#shar-faq)
+    - [Quiero empezar con el speedrun, ¿Cómo hago?](#quiero-empezar-con-el-speedrun-como-hago)
 
+    - [Quiero runnear el simpsons hit and run](#quiero-runnear-el-simpsons-hit-and-run)
 
-[GTA: SA Preguntas Frecuentes](#gtasa-faq)
+- [Simpsons Hit and Run Preguntas Frecuentes](#simpsons-hit-and-run-preguntas-frecuentes)
+    *Hacer*
 
+[GTA: SA Preguntas Frecuentes](#gta-sa-preguntas-frecuentes)
+    *Hacer*
 
-[Personal Bests](#pbs)
-    - [¿Qué significa esto?](#que-significa-eso)
-    - [¿Dónde puedo ver tus records?](#donde-records)
+[Personal Bests](#personal-bests)
+    - [¿Qué significa esto?](#que-significa-esto)
+    - [¿Dónde puedo ver tus records?](#donde-puedo-ver-tus-records)
 
 [PC Specs](#pc-specs)
 
@@ -124,6 +126,8 @@ Para empezar te recomiendo elegir un juego de tu infancia o que te guste mucho, 
 ## Quiero runnear el simpsons hit and run](#runnear-shar)
 [SHARCord](https://discord.gg/nU48TVd) ahí está todo. 
 Está en ingles, pero con tus habilidades intelectuales podrás buscarle la forma de poder entender :D
+
+# Personal Bests
 
 ***
 - ¿Cómo es que haces Y? ¿Y cómo es que haces X o Z?
